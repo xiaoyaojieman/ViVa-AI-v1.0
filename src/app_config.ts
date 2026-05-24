@@ -14,7 +14,7 @@ export const APP_CONFIG = {
   PRICE_RATIO: 0.7,
 
   // 4. 微信客服（WECHAT_SERVICE）：默认值="wx123456789"，代理替换为自己的微信客服号
-  WECHAT_SERVICE: "123",
+  WECHAT_SERVICE: "cn658888",
 
   // 5. 客服查询更多详情链接（SUPPORT_DETAIL_URL）：默认值="https://www.xxxx.cn/support"，代理替换为专属链接
   SUPPORT_DETAIL_URL: "https://ai.feishu.cn/wiki/O6Q9wrxxci898Wkj6ndcFnlknJd?from=from_copylink",
@@ -26,7 +26,7 @@ export const APP_CONFIG = {
   CASE_URL: "https://my.feishu.cn/wiki/LIEvwzn0jipQ4PkF0dkc57I2njh?from=from_copylink",
 
   // 8. 保存到桌面的链接（DESKTOP_SAVE_URL）：默认值="p.xxxx.cn"，代理替换为部署到Vercel的自定义域名
-  DESKTOP_SAVE_URL: "p.vivaapi.cn",
+  DESKTOP_SAVE_URL: "p.xiaoyaojieman.cn",
 
   // 9. 顶部公告内容（ANNOUNCEMENT）：代理可自定义修改
   ANNOUNCEMENT: "公告：1、本应用不储存用户资产，请及时下载；2、生成失败请重新生成，扣费自动返还；3、OpenClaw一键安装包见主站API文档。",
